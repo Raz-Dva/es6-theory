@@ -2,7 +2,7 @@
 Theory course. 
 
 # Commands
-After cloning the file, run the following commands
+After cloning the files, run the following commands
 ```sh
 npm install
 start: npm run webpack
