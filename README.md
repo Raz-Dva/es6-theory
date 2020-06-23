@@ -4,9 +4,12 @@ Theory course. In this course I have mastered the following material
 # Commands
 After cloning the file, run the following commands
 ```sh
+npm install
 "start": "npm run webpack",
 "webpack": "webpack -d --watch"
 ```
+The code is located in src/index.js
+
 -environment setting
 
 -variable, Constant declaration
