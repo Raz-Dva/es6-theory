@@ -5,8 +5,8 @@ Theory course. In this course I have mastered the following material
 After cloning the file, run the following commands
 ```sh
 npm install
-"start": "npm run webpack",
-"webpack": "webpack -d --watch"
+start: npm run webpack
+webpack: webpack -d --watch
 ```
 The code is located in src/index.js
 
