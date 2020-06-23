@@ -11,6 +11,7 @@ webpack: webpack -d --watch
 The code is located in src/index.js
 
 In this course I have mastered the following material:
+
 -environment setting
 
 -variable, Constant declaration
