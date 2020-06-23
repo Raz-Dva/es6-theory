@@ -1,5 +1,5 @@
 # es6-theory
-Theory course. In this course I have mastered the following material
+Theory course. 
 
 # Commands
 After cloning the file, run the following commands
@@ -10,6 +10,7 @@ webpack: webpack -d --watch
 ```
 The code is located in src/index.js
 
+In this course I have mastered the following material:
 -environment setting
 
 -variable, Constant declaration
